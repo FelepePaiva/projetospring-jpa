@@ -64,7 +64,7 @@ public class StandardError implements Serializable{
 
 	public void setPath(String path) {
 		this.path = path;
-	};
+	}
 	
 	
 
